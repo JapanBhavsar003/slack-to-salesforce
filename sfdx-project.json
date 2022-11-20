@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "slackapp",
+  "namespace": "",
+  "sfdcLoginUrl": "https://ahmedabad-dev-ed.develop.my.salesforce.com",
+  "sourceApiVersion": "55.0"
+}
